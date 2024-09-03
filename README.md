@@ -28,5 +28,6 @@ The game uses textures and a font located in the assets folder. Ensure that the 
 ## 💻 Installation
 - **C++ Compiler**: Ensure you have a C++ compiler installed.
 - **SFML Library**: Install SFML for handling graphics and update its location in `CMakeLists.txt`.
+- **Run**: Compile `main.cpp`.
 
 
