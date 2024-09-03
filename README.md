@@ -26,7 +26,7 @@ The game uses textures and a font located in the assets folder. Ensure that the 
 - **Middle Click**: Output the board to the console for debugging.
 
 ## 💻 Installation
-- **C++ Compiler**: Ensure you have a C++ compiler installed (e.g., GCC, Clang).
-- **SFML Library**: Install SFML for handling graphics and update its location in `CMakeLists.txt`
+- **C++ Compiler**: Ensure you have a C++ compiler installed.
+- **SFML Library**: Install SFML for handling graphics and update its location in `CMakeLists.txt`.
 
 
