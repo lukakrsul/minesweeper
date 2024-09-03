@@ -1,0 +1,3 @@
+D:/projekti/minesweaper/cmake-build-debug/CMakeFiles/minesweaper.dir
+D:/projekti/minesweaper/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projekti/minesweaper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
